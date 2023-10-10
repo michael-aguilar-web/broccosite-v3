@@ -107,8 +107,6 @@ there are a few additional things that I think are important to note:
 - not every activity can benefit from this strategy, some are inherently social
   - for example, playing a competitive team game with other people can push you to do better and keep up with everyone else's rate of improvement
 - I dunno if this is actually effective yet I just came up with it one afternoon
-  - (but I will eventually make an update)
 - my assumptions could just be completely off base from other people's experiences
-- I also might just be dumb and brain damaged
 
 but yea if you read this far then thanks for your time, lmk what you think

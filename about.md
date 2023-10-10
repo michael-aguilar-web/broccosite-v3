@@ -14,17 +14,18 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 ## things I currently spend my free time on
 *ordered by avg time spent per week, high to low*
 
+- frc mentoring
+- ---[^1] <!--vl-->
+- doomscrolling
 - games
-    - tft
-    - ~~apex~~
-    - aram
+    - apex
+    - aram (in moderation)
+    - battlebit
     - using osu to meditate
-    - riot mmo whenever that comes out
-- finding a new job because my current one sucks
-- inhaling nijisanji content
-- frc mentoring (usually \#1 in time spent but it is currently offseason)
-- ---[^1] <!--bp-->
+    - tft
+    - dreaming about the riot mmo
 - going to the gym to channel my inner caveman
+- inhaling nijisanji content
 - ---[^1] <!--wb-->
 - ???
 
@@ -38,7 +39,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 
 &nbsp;
 
-*last updated: july 5, 2023*
+*last updated: september 25, 2023*
 
 
 [^1]: [[2023-02-05-the-n2nbl-strategy|this post]] explains why this activity is listed, but not specified

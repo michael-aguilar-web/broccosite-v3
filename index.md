@@ -37,7 +37,7 @@ here's some links to my stuff:
 
 
 :::{.frontbox1}
-[[https://twitch.tv/broccoligg|steam]]{class="h-10 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
+[[https://steamcommunity.com/id/Broccoccoli/|steam]]{class="h-10 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
 
 [[https://open.spotify.com/user/broccoli_?si=6bd23e31398b4929&nd=1|spotify]]{class="h-10 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
 

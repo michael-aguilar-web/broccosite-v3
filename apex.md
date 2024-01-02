@@ -4,7 +4,8 @@ order: 2
 
 # apex
 
-i wrote some stuff about apex
+i made some stuff about apex legends
 
-notes list
+notes in folder
+: [[most-recent-cliptage|most recent cliptage]]
 : [[fundamentals|fundamentals series]]

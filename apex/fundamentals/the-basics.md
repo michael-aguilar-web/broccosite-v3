@@ -1,7 +1,7 @@
 ---
 date: "2023-03-05"
 slug: apex/fundamentals/the-basics
-tags: [apex-legends]
+tags: [games]
 order: 1
 ---
 

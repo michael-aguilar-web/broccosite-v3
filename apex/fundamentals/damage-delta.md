@@ -1,7 +1,7 @@
 ---
 date: "2023-03-05"
 slug: apex/fundamentals/damage-delta
-tags: [apex-legends]
+tags: [games]
 order: 3
 ---
 

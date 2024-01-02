@@ -1,7 +1,7 @@
 ---
 date: "2023-03-05"
 slug: apex/fundamentals/space
-tags: [apex-legends]
+tags: [games]
 order: 4
 ---
 

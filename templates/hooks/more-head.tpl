@@ -33,10 +33,12 @@
     }
 
     h2 {
-        font-variation-settings: 'wght' 400;
+        font-family: "Quicksand", sans-serif;
+        font-variation-settings: 'wght' 600;
     }
 
     h3 {
-        font-variation-settings: 'wght' 300;
+        font-family: "Quicksand", sans-serif;
+        font-variation-settings: 'wght' 600;
     }
 </style>

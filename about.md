@@ -16,7 +16,9 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 - frc mentoring
 - games
     - apex
-    - persona 5!!! (I didn't know singleplayer games could actually be good until I started this)
+    - baldur's gate 3
+    - genshin
+    - the occasional valorant swiftplay
     - using osu to meditate
     - dreaming about the riot mmo
 - doomscrolling
@@ -36,7 +38,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 
 &nbsp;
 
-*last updated: november 30, 2023*
+*last updated: january 2, 2024*
 
 
 [^1]: [[2023-02-05-the-n2nbl-strategy|this post]] explains why this activity is listed, but not specified

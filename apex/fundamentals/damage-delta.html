@@ -30,7 +30,7 @@
 
 
   
-  <link href='tailwind.css?instanceId=5139a528-0da6-4559-b107-fe68f75dcbbd' rel='stylesheet' type='text/css' />
+  <link href='tailwind.css?instanceId=304dd121-3f3e-4b8d-9619-f34c48742e05' rel='stylesheet' type='text/css' />
 
   <style>
     /* Heist error element */
@@ -115,11 +115,13 @@
     }
 
     h2 {
-        font-variation-settings: 'wght' 400;
+        font-family: "Quicksand", sans-serif;
+        font-variation-settings: 'wght' 600;
     }
 
     h3 {
-        font-variation-settings: 'wght' 300;
+        font-family: "Quicksand", sans-serif;
+        font-variation-settings: 'wght' 600;
     }
 </style>
 
@@ -427,6 +429,43 @@
       <!-- Variable bindings for this tree-->
   
     
+  
+
+
+
+  
+
+
+<!-- Rendering of this tree -->
+<div class='pl-2'>
+  <!-- Node's rootLabel-->
+  <div class='flex items-center my-2 space-x-2 justify-left'>
+    
+    
+      <svg class='w-4 h-4 flex-shrink-0 inline' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+        <path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z'>
+        </path>
+      </svg>
+    
+  
+    <a class='hover:underline truncate' title='most recent cliptage' href='apex/most-recent-cliptage'>
+      most recent cliptage
+    </a>
+    
+      
+        
+    
+  </div>
+
+  <!-- Node's children forest, displayed only on active trees
+    TODO: Use <details> to toggle visibility?
+  -->
+  
+</div>
+    
+      <!-- Variable bindings for this tree-->
+  
+    
       
       
     
@@ -675,8 +714,8 @@
     </a>
     
       
-        <span class='text-gray-300' title='1 children inside'>
-          1
+        <span class='text-gray-300' title='2 children inside'>
+          2
         </span>
       
     
@@ -727,6 +766,45 @@
   
 </div>
             
+              <!-- Variable bindings for this tree-->
+  
+    
+  
+
+
+
+  
+  
+
+<!-- Rendering of this tree -->
+<div class='pl-2'>
+  <!-- Node's rootLabel-->
+  <div class='flex items-center my-2 space-x-2 justify-left'>
+    
+    
+      <svg xmlns='http://www.w3.org/2000/svg' class='w-4 h-4 flex-shrink-0 inline text-gray-500' viewBox='0 0 20 20' fill='currentColor'>
+        <path d='M2 6a2 2 0 012-2h5l2 2h5a2 2 0 012 2v6a2 2 0 01-2 2H4a2 2 0 01-2-2V6z'></path>
+      </svg>
+    
+  
+    <a class='hover:underline truncate' title='mental models' href='mental-models'>
+      mental models
+    </a>
+    
+      
+        <span class='text-gray-300' title='1 children inside'>
+          1
+        </span>
+      
+    
+  </div>
+
+  <!-- Node's children forest, displayed only on active trees
+    TODO: Use <details> to toggle visibility?
+  -->
+  
+</div>
+            
 
           </div>
         </nav>
@@ -745,12 +823,12 @@
         <p class='mb-3'>
             so now that we know that getting faster at apex is the key to improvement, how exactly do we speed up fights? To answer this, let’s look at the concept that I like to call the “damage delta”:
         </p>
-    <h2 id='what-is-the-damage-delta' class='inline-block mt-6 mb-4 text-3xl font-bold border-b-2'>what is the damage delta?</h2>
+    <h2 id='what-is-the-damage-delta' class='inline-block mt-6 mb-4 text-4xl font-bold border-b-2'>what is the damage delta?</h2>
         <p class='mb-3'>
             the “damage delta” is the difference between a player’s <strong>damage output</strong> and their <strong>damage taken</strong> - I like to view it this way because apex is not as simple as putting out a ton of damage to get kills, but to get good you <em>also</em> have to focus on <strong>minimizing the damage your are taking</strong>.
         </p>
     <div xmlhtmlRaw><center><img src="/images/damagedeltagraph.png" width="552" height="346"></center>
-</div><h2 id='why-do-we-care-about-it' class='inline-block mt-6 mb-4 text-3xl font-bold border-b-2'>why do we care about it?</h2>
+</div><h2 id='why-do-we-care-about-it' class='inline-block mt-6 mb-4 text-4xl font-bold border-b-2'>why do we care about it?</h2>
         <p class='mb-3'>
             the most important reason why maximizing the damage delta is important because it enables an <strong>artifical numbers advantage</strong>. When someone gets cracked and is forced to heal, they are essentially <strong>out of the game</strong> for the next few seconds <em>(see health item table below)</em>. For example, dealing 140 damage to someone with a purple shield means they will have to spend 10 to 27+ seconds doing nothing but healing.
         </p>
@@ -772,7 +850,7 @@
         <p class='mb-3'>
             another reason why you should be minimizing the damage taken is because while you can shield swap to instantly get your <strong>shields</strong> to full health, you cannot instantly heal your <strong>flesh health</strong>. In a fight, unless you are <strong>100% certain</strong> that you are not going to get third partied, you should <strong>always assume</strong> that you will get third partied. We give ourselves a higher chance of beating the third party if we keep our flesh health <strong>as high as possible</strong>.
         </p>
-    <h2 id='how-do-we-increase-our-average-damage-delta' class='inline-block mt-6 mb-4 text-3xl font-bold border-b-2'>how do we increase our average damage delta?</h2>
+    <h2 id='how-do-we-increase-our-average-damage-delta' class='inline-block mt-6 mb-4 text-4xl font-bold border-b-2'>how do we increase our average damage delta?</h2>
         <p class='mb-3'>
             these are the core skills that I think go into increasing your average damage delta:
         </p>
@@ -789,7 +867,7 @@
         </p>
     
         </blockquote>
-    <h3 id='positioning' class='mt-6 mb-2 text-3xl font-bold text-gray-700'>positioning</h3>
+    <h3 id='positioning' class='mt-6 mb-2 text-3xl font-bold'>positioning</h3>
         <p class='mb-3'>
             positioning is what I consider to be the most important skill involved in maximizing your damage delta. Positioning in a fight encompasses 2 main things: how well can you <strong>control space</strong>, and how well can you <strong>utilize cover</strong>.
         </p>
@@ -825,7 +903,7 @@
                 </li>
             
         </ul>
-    <h3 id='timing-and-movement' class='mt-6 mb-2 text-3xl font-bold text-gray-700'>timing and movement</h3>
+    <h3 id='timing-and-movement' class='mt-6 mb-2 text-3xl font-bold'>timing and movement</h3>
         <p class='mb-3'>
             <strong><em>timing:</em></strong>
         </p>
@@ -925,7 +1003,7 @@
         <p class='mb-3'>
             check out <a href='https://youtube.com/playlist?list=PLutufyM99jBTt-KZL-o8laGixXhnFaBHm' class='text-green-600 hover:underline' data-linkicon='external' target='_blank' rel='noopener'>mokeysniper</a> on youtube if you want to learn anything movement related!
         </p>
-    <h3 id='aim' class='mt-6 mb-2 text-3xl font-bold text-gray-700'>aim</h3>
+    <h3 id='aim' class='mt-6 mb-2 text-3xl font-bold'>aim</h3>
         <ul class='my-3 ml-6 space-y-1 list-disc'>
             
                 <li>
@@ -937,7 +1015,7 @@
                 </li>
             
         </ul>
-    <h3 id='ability-and-grenade-usage' class='mt-6 mb-2 text-3xl font-bold text-gray-700'>ability and grenade usage</h3>
+    <h3 id='ability-and-grenade-usage' class='mt-6 mb-2 text-3xl font-bold'>ability and grenade usage</h3>
         <ul class='my-3 ml-6 space-y-1 list-disc'>
             
                 <li>
@@ -1035,9 +1113,9 @@
       <!-- FIXME: The use of -/tags is wrong, because we should use routeUrl using Ema's encoder 
         Perhaps Emanote should inject tagMetas with urls.
       -->
-      <a title='Tag' class='px-1 bg-gray-100 rounded hover:bg-gray-50 hover:text-green-500' href='-/tags/apex-legends'>
+      <a title='Tag' class='px-1 bg-gray-100 rounded hover:bg-gray-50 hover:text-green-500' href='-/tags/games'>
         <!-- DoNotFormat -->
-        #apex-legends
+        #games
         <!-- DoNotFormat -->
       </a>
     

@@ -16,10 +16,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 - frc mentoring
 - games
     - apex
-    - valorant
-    - genshin
-    - baldur's gate 3
-    - using osu to meditate
+    - random games I don't play often (valorant, genshin, baldur's gate 3, osu)
     - dreaming about the riot mmo
 - doomscrolling
 - going to the gym to channel my inner caveman
@@ -37,7 +34,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 
 &nbsp;
 
-*last updated: january 21, 2024*
+*last updated: april 24, 2024*
 
 
 [^1]: [[2023-02-05-the-n2nbl-strategy|this post]] explains why this activity is listed, but not specified

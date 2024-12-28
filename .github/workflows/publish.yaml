@@ -13,7 +13,7 @@ jobs:
         with:
           nix_conf: |
             experimental-features = nix-command flakes
-            access-tokens = github.com=${{ secrets.GITHUB_TOKEN }}
+            access-tokens = github.com=${{ secrets.TOKEN }}
 
       - uses: cachix/cachix-action@v11
         with:
@@ -30,6 +30,6 @@ jobs:
       - name: Deploy to gh-pages 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKEN }}
           publish_dir: ./result
           cname: brocco.site

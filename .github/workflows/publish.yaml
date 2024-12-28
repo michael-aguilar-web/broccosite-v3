@@ -4,22 +4,47 @@ on:
     branches:
       - master
 jobs:
-  emanote:
-    runs-on: ubuntu-latest
+  nix:
+    runs-on: ${{ matrix.system }}
+    strategy:
+      matrix:
+        system: [aarch64-darwin, x86_64-linux]
+      fail-fast: false
     steps:
-      - uses: actions/checkout@v3
-      - name: Build emanote site 🔧
-        run: nix build .#docs -o _site
+      - uses: actions/checkout@v4
+      - name: Build Nix
+        run: |
+          om ci --extra-access-tokens "github.com=${{ secrets.GTOKEN }}" run --systems "${{ matrix.system }}"
+  flake-parts-docs:
+    runs-on: x86_64-linux
+    steps:
+      - uses: actions/checkout@v4
+      - name: Docs for flake.parts
+        run: |
+          # TODO: Define this in nixci itself.
+          nix build github:hercules-ci/flake.parts-website#checks.x86_64-linux.linkcheck --override-input emanote .
+
+  website:
+    if: github.ref == 'refs/heads/master'
+    runs-on: x86_64-linux
+    steps:
+      - uses: actions/checkout@v4
+      - name: Docs static site
+        id: docs
+        run: |
+          nix build .#docs -o ./_site
+          if ! [ -f ./_site/index.html ]; then
+            echo "ERROR: There is no index.html"
+            exit 2
+          fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-
-  # Deployment job
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: emanote
+    needs: website
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

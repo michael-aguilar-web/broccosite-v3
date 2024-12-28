@@ -1,5 +1,5 @@
 ---
-slug: weeb-hype
+slug: mental-models/weeb-hype
 tags: [mental-models]
 ---
 

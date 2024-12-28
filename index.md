@@ -32,11 +32,11 @@ here's some links to my stuff:
 
 &nbsp;
 
-### <center> [[https://open.spotify.com/user/broccoli_?si=6bd23e31398b4929&nd=1|spotify]] / [[https://apexlegendsstatus.com/profile/uid/PC/2654494079|apex]] </center>
+### <center> [[https://open.spotify.com/user/broccoli_?si=6bd23e31398b4929&nd=1|spotify]] / [[https://lolchess.gg/profile/na/Broccoli-veg/|tft]] </center>
 
 &nbsp;
 
-### <center> [[https://osu.ppy.sh/users/5870537|osu]] / [[https://lolchess.gg/profile/na/broccolitft|tft]] </center>
+### <center> [[https://osu.ppy.sh/users/5870537|osu]] / [[https://apexlegendsstatus.com/profile/uid/PC/2654494079|apex]] </center>
 
 <!-- old buttons -->
 

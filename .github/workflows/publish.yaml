@@ -15,7 +15,7 @@ jobs:
       - name: Build emanote site 🔧
         run: |
           . /home/runner/.nix-profile/etc/profile.d/nix.sh
-          nix build --extra-experimental-features nix-command #docs -o _site
+          nix build --extra-experimental-features 'nix-command flakes' #docs -o _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 

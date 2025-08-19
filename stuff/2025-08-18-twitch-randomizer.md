@@ -33,6 +33,12 @@ here are what the filters do (and the ones I have set as of right now):
 
 there's also an import and export feature for saving & sharing your filters.
 
+## video demo
+
+<center><iframe width=100% height="315" src="https://www.youtube.com/embed/m0KVJWfpMOQ?si=_f9TdLXcfEPOZ8x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+&nbsp;
+
 
 ## setup guide
 
@@ -62,11 +68,5 @@ there's also an import and export feature for saving & sharing your filters.
 - I have twitch turbo atm, so the concept might not even work well if you have to watch an ad every roll (if you still want to try it, you can increase the auto roll timer to account for this)
 - if you really want to use the script and the setup steps aren't working, just dm me and I can probably help troubleshoot it
 - if you're an actual web dev and you look through the script, your suspicions are in fact correct, this was like 80% vibe coded using modern day wizardry
-
-## video demo
-
-<center><iframe width=100% height="315" src="https://www.youtube.com/embed/m0KVJWfpMOQ?si=_f9TdLXcfEPOZ8x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
-
-&nbsp;
 
 *post date: august 18, 2025*

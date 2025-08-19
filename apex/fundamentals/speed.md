@@ -30,7 +30,7 @@ another way of viewing speed is to look at **a player's ability to not waste tim
 
 if you've never seen a pro speeding across the map before check out this guy: 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/75xk2Wv1k1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width=100% height="315" src="https://www.youtube.com/embed/75xk2Wv1k1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 &nbsp;
 
 (definitely not a fanboy btw.)

@@ -21,3 +21,5 @@ also I'm a bezier curve enthusiast (definitely need to find a better choice of s
 &nbsp;
 
 [file download](https://broccoli.s-ul.eu/SVpod6Ad) (includes stl, step, sldprt, and 3mf with colors)
+
+*post date: june 7, 2023*

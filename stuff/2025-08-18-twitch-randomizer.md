@@ -10,7 +10,7 @@ slug: stuff/twitch-randomizer
 
 my project last week/end was to add more gambling to twitch in the form of a randomizer button! This is a [tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) script that adds a button on the nav bar up top to send you to a random page, based on the filters you set. Discoverability for smaller streamers is pretty bad on twitch, so I took it upon myself to create a new way to check out smaller creators. The button does a really good job of channeling your sense of "surely the next streamer can't also be terrible!"
 
-<center><img src="/images/stuff/filtermenu.webp" width="408"></center>
+<center><img src="/images/stuff/filtermenu.webp" width="612"></center>
 
 &nbsp;
 

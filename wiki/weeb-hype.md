@@ -1,6 +1,6 @@
 ---
-slug: mental-models/weeb-hype
-tags: [mental-models]
+slug: wiki/weeb-hype
+tags: [wiki]
 ---
 
 # weeb hype

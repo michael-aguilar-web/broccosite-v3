@@ -2,7 +2,7 @@
 order: 4
 ---
 
-# mental models
+# wiki
 
 notes containing explanations of:
 - a made up concept that I am attempting to explain how it works in my head

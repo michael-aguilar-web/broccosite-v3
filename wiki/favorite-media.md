@@ -1,6 +1,5 @@
 ---
 slug: wiki/favorite-media
-tags: [wiki]
 ---
 
 # favorite media

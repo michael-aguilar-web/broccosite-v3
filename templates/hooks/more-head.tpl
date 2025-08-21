@@ -41,4 +41,9 @@
         font-family: "Quicksand", sans-serif;
         font-variation-settings: 'wght' 600;
     }
+
+    h4 {
+        font-family: "Quicksand", sans-serif;
+        font-variation-settings: 'wght' 600;
+    }
 </style>

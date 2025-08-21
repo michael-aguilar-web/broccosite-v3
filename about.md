@@ -8,14 +8,14 @@ order: 1
 hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing things that get the brain juices flowing :slightly_smiling_face:
 
 
-*discord: broccoccoccoli*
+<img src="/images/icons/discord.png" alt="Discord" style="width: 20px; height: 20px; vertical-align: middle; position: relative; top: -2px; display: inline-block;"> *broccoccoccoli*
 
 
 ## things I currently spend my free time on
 *ordered by avg time spent per week, high to low*
 
 - ---[^1] <!--bp-->
-- analyzing emerging digital content trends and statistics aka doomscrolling
+- analyzing emerging digital content trends and metrics aka doomscrolling
 - ---[^1] <!--vl-->
 - games
     - apex

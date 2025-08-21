@@ -35,7 +35,7 @@ there's also an import and export feature for saving & sharing your filters.
 
 ## video demo
 
-<center><iframe width=100% height="315" src="https://www.youtube.com/embed/m0KVJWfpMOQ?si=_f9TdLXcfEPOZ8x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/m0KVJWfpMOQ?si=_f9TdLXcfEPOZ8x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="max-width: 600px; width: 100%; height: auto; aspect-ratio: 16/9;"></iframe></center>
 
 &nbsp;
 

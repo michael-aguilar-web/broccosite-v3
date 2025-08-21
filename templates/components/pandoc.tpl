@@ -94,11 +94,11 @@
     <Code class="py-0.5 px-0.5 bg-gray-100" />
     <Header>
         <h1 class="pb-2 mb-2 text-5xl font-bold text-center" />
-        <h2 class="inline-block mt-6 mb-4 text-4xl font-bold border-b-2" />
-        <h3 class="mt-6 mb-2 text-3xl font-bold" />
-        <h4 class="mt-6 mb-2 text-xl font-bold text-gray-700" />
-        <h5 class="mt-6 mb-2 text-xl font-bold text-gray-700" />
-        <h6 class="mt-6 mb-2 text-xl font-bold text-gray-700" />
+        <h2 class="inline-block mt-4 mb-4 text-4xl font-bold border-b-2" />
+        <h3 class="mt-4 mb-2 text-3xl font-bold" />
+        <h4 class="mt-2 mb-2 text-xl font-bold text-gray-700" />
+        <h5 class="mt-2 mb-2 text-xl font-bold text-gray-700" />
+        <h6 class="mt-2 mb-2 text-xl font-bold text-gray-700" />
     </Header>
 
 </ema:note:pandoc>

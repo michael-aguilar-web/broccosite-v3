@@ -6,15 +6,7 @@ title: broccosite
   /* turn off auto external-link icon */
   a[data-linkicon="external"]::after { content: none; }
 
-  /* ===== Link hub controls ===== */
-  .lt-stack { 
-    --btn-gap: 14px;                  /* change this for spacing between buttons */
-    max-width: 520px;
-    margin: 1.5rem auto;
-    padding: 0 1rem;
-  }
-
-  /* Markdown list resets (Pandoc wraps list items in <p>, so kill those margins) */
+  /* remove bullet points */
   .lt-stack ul, .lt-stack ol { list-style: none; margin: 0; padding: 0; }
   .lt-stack li { margin: 0; }
   .lt-stack li > p { margin: 0; }
@@ -22,7 +14,7 @@ title: broccosite
     margin-top: var(--btn-gap) !important; 
   }
 
-  /* ===== Button look ===== */
+  /* button formatting */
   .lt-stack a.lt-card,
   .lt-stack a.lt-card:link,
   .lt-stack a.lt-card:visited {
@@ -30,15 +22,15 @@ title: broccosite
     align-items: center;
     justify-content: center;
     gap: 8px;
-    text-decoration: none;            /* no underline */
+    text-decoration: none;          
     background: #fff;
-    border: 1px solid #d1d5db;        /* clearer outline for contrast */
+    border: 1px solid #d1d5db;
     border-radius: 9999px;
     padding: 12px 16px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.06), 0 1px 1px rgba(0,0,0,0.04);
     color: #1f2937;
     font-size: 1.4rem;
-    font-family: "Quicksand", sans-serif;  /* button font */
+    font-family: "Quicksand", sans-serif;
     font-weight: 600;
     transition: transform .1s ease, box-shadow .15s ease, border-color .12s ease, background-color .12s ease;
   }
@@ -49,7 +41,7 @@ title: broccosite
     text-decoration: none;
   }
 
-  /* ===== Icon per button (no <img> needed) ===== */
+  /* add icon */
   .lt-stack a.lt-card::before {
     content: "";
     width: 24px;
@@ -60,10 +52,8 @@ title: broccosite
     background-position: center;
   }
 
-  /* default / placeholder icon */
-  .ico-brocco::before { background-image: url('/images/broccoflush.png'); }
-
-  /* per-platform icons — swap these paths for your own assets */
+  /* per-platform icons */
+  .ico-brocco::before { background-image: url('/images/broccoflush.png'); } /* placeholder icon */
   .ico-twitter::before { background-image: url('/images/icons/twitter.png'); }
   .ico-youtube::before { background-image: url('/images/icons/youtube.png'); }
   .ico-twitch::before  { background-image: url('/images/icons/twitch.png'); }
@@ -72,33 +62,30 @@ title: broccosite
   .ico-riot::before     { background-image: url('/images/icons/riot.png'); }
   .ico-osu::before     { background-image: url('/images/icons/osu.png'); }
   .ico-apex::before    { background-image: url('/images/icons/apex.png'); }
-
-  /* center the header image block */
+  
+  /* center header image */
   .img-center img { display: block; margin-left: auto; margin-right: auto; }
 
-  .inactive-section h3 {
-    text-align: center;
-    margin: 1rem 0;
-  }
-
-    /* Panel wrapper */
+    /* background panel */
   .lt-panel{
-    max-width: 580px;             /* widen slightly beyond buttons */
+    max-width: 580px;
     margin: 1.5rem auto;
     padding: 24px 28px;
-    background: #d1fae5;          /* soft shaded background */
-    border: 1px solid #e5e7eb;    /* subtle outline */
+    background: #d1fae5;
+    border: 1px solid #e5e7eb;
     border-radius: 20px;
     box-shadow: 0 6px 20px rgba(0,0,0,.06);
   }
 
-  /* Keep stacked lists tidy inside the panel */
+  /* button spacing */
   .lt-panel .lt-stack{
-    --btn-gap: 16px;              /* spacing between buttons (override if you want) */
+    --btn-gap: 18px;             
     max-width: 520px;
-    margin: 0.75rem auto;         /* center lists within panel */
+    margin: 0.75rem auto;         
     padding: 0 4px;
   }
+
+  .inactive-section h3 { text-align: center; margin: 1rem 0; }
 
 </style>
 

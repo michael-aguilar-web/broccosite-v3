@@ -1,6 +1,5 @@
 ---
 slug: wiki/weeb-hype
-tags: [wiki]
 ---
 
 # weeb hype

@@ -30,7 +30,7 @@
 
 
   
-  <link href='tailwind.css?instanceId=f1412576-0672-4b4f-bc16-0f8e22c16446' rel='stylesheet' type='text/css' />
+  <link href='tailwind.css?instanceId=663a31ad-7be2-447a-9f5e-528668f26d52' rel='stylesheet' type='text/css' />
 
   <style>
     /* Heist error element */
@@ -571,13 +571,103 @@
             <article class='overflow-auto'>
   <!-- What goes in this file will appear on top of note body-->
   <div xmlhtmlRaw><style>
-    a[data-linkicon="external"]::after {
-      content: none;
-    }
+  /* turn off auto external-link icon */
+  a[data-linkicon="external"]::after { content: none; }
 
-    .button-font {
-      font-family: "Quicksand", sans-serif;
-    }
+  /* ===== Link hub controls ===== */
+  .lt-stack { 
+    --btn-gap: 14px;                  /* change this for spacing between buttons */
+    max-width: 520px;
+    margin: 1.5rem auto;
+    padding: 0 1rem;
+  }
+
+  /* Markdown list resets (Pandoc wraps list items in <p>, so kill those margins) */
+  .lt-stack ul, .lt-stack ol { list-style: none; margin: 0; padding: 0; }
+  .lt-stack li { margin: 0; }
+  .lt-stack li > p { margin: 0; }
+  .lt-stack > ul > li + li { 
+    margin-top: var(--btn-gap) !important; 
+  }
+
+  /* ===== Button look ===== */
+  .lt-stack a.lt-card,
+  .lt-stack a.lt-card:link,
+  .lt-stack a.lt-card:visited {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    text-decoration: none;            /* no underline */
+    background: #fff;
+    border: 1px solid #d1d5db;        /* clearer outline for contrast */
+    border-radius: 9999px;
+    padding: 12px 16px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.06), 0 1px 1px rgba(0,0,0,0.04);
+    color: #1f2937;
+    font-size: 1.4rem;
+    font-family: "Quicksand", sans-serif;  /* button font */
+    font-weight: 600;
+    transition: transform .1s ease, box-shadow .15s ease, border-color .12s ease, background-color .12s ease;
+  }
+  .lt-stack a.lt-card:hover {
+    transform: translateY(-2px);
+    border-color: #9ca3af;
+    background-color: #f9fafb;
+    text-decoration: none;
+  }
+
+  /* ===== Icon per button (no <img> needed) ===== */
+  .lt-stack a.lt-card::before {
+    content: "";
+    width: 24px;
+    height: 24px;
+    border-radius: 6px;
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
+  }
+
+  /* default / placeholder icon */
+  .ico-brocco::before { background-image: url('/images/broccoflush.png'); }
+
+  /* per-platform icons — swap these paths for your own assets */
+  .ico-twitter::before { background-image: url('/images/icons/twitter.png'); }
+  .ico-youtube::before { background-image: url('/images/icons/youtube.png'); }
+  .ico-twitch::before  { background-image: url('/images/icons/twitch.png'); }
+  .ico-steam::before   { background-image: url('/images/icons/steam.png'); }
+  .ico-spotify::before { background-image: url('/images/icons/spotify.png'); }
+  .ico-riot::before     { background-image: url('/images/icons/riot.png'); }
+  .ico-osu::before     { background-image: url('/images/icons/osu.png'); }
+  .ico-apex::before    { background-image: url('/images/icons/apex.png'); }
+
+  /* center the header image block */
+  .img-center img { display: block; margin-left: auto; margin-right: auto; }
+
+  .inactive-section h3 {
+    text-align: center;
+    margin: 1rem 0;
+  }
+
+    /* Panel wrapper */
+  .lt-panel{
+    max-width: 580px;             /* widen slightly beyond buttons */
+    margin: 1.5rem auto;
+    padding: 24px 28px;
+    background: #d1fae5;          /* soft shaded background */
+    border: 1px solid #e5e7eb;    /* subtle outline */
+    border-radius: 20px;
+    box-shadow: 0 6px 20px rgba(0,0,0,.06);
+  }
+
+  /* Keep stacked lists tidy inside the panel */
+  .lt-panel .lt-stack{
+    --btn-gap: 16px;              /* spacing between buttons (override if you want) */
+    max-width: 520px;
+    margin: 0.75rem auto;         /* center lists within panel */
+    padding: 0 4px;
+  }
+
 </style>
 </div>
         <p class='mb-3'>
@@ -593,49 +683,52 @@
         </p>
     
         <hr class='mb-3' />
-    <div xmlhtmlRaw><center><img src="/images/broccoflush.png"></center>
-&nbsp;
-</div><h3 id='-twitter--youtube-' class='mt-6 mb-2 text-3xl font-bold'><span xmlhtmlRaw><center></span> <a href='https://twitter.com/Broccoccoccoli' class='text-green-600 hover:underline' data-linkicon='external' data-wikilink-type='WikiLinkNormal' target='_blank' rel='noopener'>twitter</a> / <a href='https://youtube.com/@Broccoccoccoli' class='text-green-600 hover:underline' data-linkicon='external' data-wikilink-type='WikiLinkNormal' target='_blank' rel='noopener'>youtube</a> <span xmlhtmlRaw></center></span></h3>
+    <div class='img-center'><div xmlhtmlRaw><img src="/images/broccoflush.png">
+</div></div><div class='lt-panel'><div class='lt-stack'>
+        <ul class='my-3 ml-6 space-y-1 list-disc'>
+            
+                <li>
+                    <a href='https://twitter.com/Broccoccoccoli' class='lt-card ico-twitter text-green-600 hover:underline' data-linkicon='external' target='_blank' rel='noopener' target='_blank' rel='noopener'>twitter</a>
+                </li>
+            
+                <li>
+                    <a href='https://youtube.com/@Broccoccoccoli' class='lt-card ico-youtube text-green-600 hover:underline' data-linkicon='external' target='_blank' rel='noopener' target='_blank' rel='noopener'>youtube</a>
+                </li>
+            
+                <li>
+                    <a href='https://steamcommunity.com/id/Broccoccoli/' class='lt-card ico-steam text-green-600 hover:underline' data-linkicon='external' target='_blank' rel='noopener' target='_blank' rel='noopener'>steam</a>
+                </li>
+            
+                <li>
+                    <a href='https://open.spotify.com/user/broccoli_?si=6bd23e31398b4929&amp;nd=1' class='lt-card ico-spotify text-green-600 hover:underline' data-linkicon='external' target='_blank' rel='noopener' target='_blank' rel='noopener'>spotify</a>
+                </li>
+            
+        </ul>
+    </div></div>
         <p class='mb-3'>
              
         </p>
-    <h3 id='-twitch--steam-' class='mt-6 mb-2 text-3xl font-bold'><span xmlhtmlRaw><center></span> <a href='https://twitch.tv/broccoligg' class='text-green-600 hover:underline' data-linkicon='external' data-wikilink-type='WikiLinkNormal' target='_blank' rel='noopener'>twitch</a> / <a href='https://steamcommunity.com/id/Broccoccoli/' class='text-green-600 hover:underline' data-linkicon='external' data-wikilink-type='WikiLinkNormal' target='_blank' rel='noopener'>steam</a> <span xmlhtmlRaw></center></span></h3>
-        <p class='mb-3'>
-             
-        </p>
-    <h3 id='-spotify--tft-' class='mt-6 mb-2 text-3xl font-bold'><span xmlhtmlRaw><center></span> <a href='https://open.spotify.com/user/broccoli_?si=6bd23e31398b4929&amp;nd=1' class='text-green-600 hover:underline' data-linkicon='external' data-wikilink-type='WikiLinkNormal' target='_blank' rel='noopener'>spotify</a> / <a href='https://lolchess.gg/profile/na/Broccoli-veg/' class='text-green-600 hover:underline' data-linkicon='external' data-wikilink-type='WikiLinkNormal' target='_blank' rel='noopener'>tft</a> <span xmlhtmlRaw></center></span></h3>
-        <p class='mb-3'>
-             
-        </p>
-    <h3 id='-osu--apex-' class='mt-6 mb-2 text-3xl font-bold'><span xmlhtmlRaw><center></span> <a href='https://osu.ppy.sh/users/5870537' class='text-green-600 hover:underline' data-linkicon='external' data-wikilink-type='WikiLinkNormal' target='_blank' rel='noopener'>osu</a> / <a href='https://apexlegendsstatus.com/profile/uid/PC/2654494079' class='text-green-600 hover:underline' data-linkicon='external' data-wikilink-type='WikiLinkNormal' target='_blank' rel='noopener'>apex</a> <span xmlhtmlRaw></center></span></h3><div xmlhtmlRaw><!-- old buttons -->
-</div><div xmlhtmlRaw><!-- 
-:::{.frontbox1}
-[[https://twitter.com/Broccoccoccoli|twitter]]{class="h-20 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
-
-[[https://youtube.com/@Broccoccoccoli|yt]]{class="h-20 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
-
-[[https://twitch.tv/broccoligg|twitch]]{class="h-20 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
-:::
-&nbsp;
-
-
----
-
-&nbsp;
-
-
-:::{.frontbox1}
-[[https://steamcommunity.com/id/Broccoccoli/|steam]]{class="h-10 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
-
-[[https://open.spotify.com/user/broccoli_?si=6bd23e31398b4929&nd=1|spotify]]{class="h-10 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
-
-[[https://apexlegendsstatus.com/profile/uid/PC/2654494079|apex]]{class="h-10 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
-
-[[https://osu.ppy.sh/users/5870537|osu]]{class="h-10 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
-
-[[https://lolchess.gg/profile/na/broccolitft|tft]]{class="h-10 p-4 border-4 bg-white rounded-md flex items-center justify-center text-center text-2xl font-extrabold button-font hover:bg-gray-300 hover:border-green-600 hover:no-underline ml-8 mr-8 mu-4 md-4"}
-::: 
---></div>
+    <div class='inactive-section'><h3 id='inactive' class='mt-6 mb-2 text-3xl font-bold'>inactive</h3></div><div class='lt-panel'><div class='lt-stack'>
+        <ul class='my-3 ml-6 space-y-1 list-disc'>
+            
+                <li>
+                    <a href='https://twitch.tv/broccoligg' class='lt-card ico-twitch text-green-600 hover:underline' data-linkicon='external' target='_blank' rel='noopener' target='_blank' rel='noopener'>twitch</a>
+                </li>
+            
+                <li>
+                    <a href='https://lolchess.gg/profile/na/Broccoli-veg/' class='lt-card ico-riot text-green-600 hover:underline' data-linkicon='external' target='_blank' rel='noopener' target='_blank' rel='noopener'>tft</a>
+                </li>
+            
+                <li>
+                    <a href='https://osu.ppy.sh/users/5870537' class='lt-card ico-osu text-green-600 hover:underline' data-linkicon='external' target='_blank' rel='noopener' target='_blank' rel='noopener'>osu!</a>
+                </li>
+            
+                <li>
+                    <a href='https://apexlegendsstatus.com/profile/uid/PC/2654494079' class='lt-card ico-apex text-green-600 hover:underline' data-linkicon='external' target='_blank' rel='noopener' target='_blank' rel='noopener'>apex</a>
+                </li>
+            
+        </ul>
+    </div></div>
         <p class='mb-3'>
             
         </p>

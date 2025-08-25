@@ -14,14 +14,14 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 ## things I currently spend my free time on
 *ordered by avg time spent per week, high to low*
 
-- ---[^1] <!--bp-->
-- analyzing emerging digital content trends and metrics aka doomscrolling
-- ---[^1] <!--vl-->
+- ---[^1] <!--bp/sts-->
+- doomscrolling
 - games
     - apex
     - peak (the first friendslop game I actually enjoy, would recommend)
     - dreaming about the riot mmo
 - going to the gym to channel my inner caveman
+- ---[^1] <!--vl-->
 - ---[^1] <!--ct-->
 - frc mentoring (on hold)
 - ???
@@ -36,7 +36,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 
 &nbsp;
 
-*last updated: august 18, 2025*
+*last updated: august 24, 2025*
 
 
 [^1]: [[2023-02-05-the-n2nbl-strategy|this post]] explains why this activity is listed, but not specified

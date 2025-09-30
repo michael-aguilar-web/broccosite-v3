@@ -14,7 +14,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 ## things I currently spend my free time on
 *ordered by avg time spent per week, high to low*
 
-- project --- [^1] <!--bp/sts-->
+- project ___ [^1] <!--bp/sts-->
 - games
     - apex
     - peak (the first friendslop game I actually enjoy, would recommend)
@@ -36,7 +36,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 
 &nbsp;
 
-*last updated: august 24, 2025*
+*last updated: september 29, 2025*
 
 
 [^1]: [[2023-02-05-the-n2nbl-strategy|this post]] explains why this activity is listed, but not specified

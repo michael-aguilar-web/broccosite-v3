@@ -19,8 +19,7 @@
           # By default, the 'emanote' flake input is used.
           # package = inputs.emanote.packages.${system}.default;
           sites."default" = {
-            # Use string layers to avoid flake resolution / default.nix lookups
-            layersString = [ "." ];
+            layers = [ "." ];
             # port = 8080;
           };
         };

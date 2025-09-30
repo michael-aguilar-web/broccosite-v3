@@ -23,6 +23,7 @@
             # port = 8080;
           };
         };
+        packages.default = self'.packages.default-static;
         devShells.default = pkgs.mkShell {
           buildInputs = [
             pkgs.nixpkgs-fmt

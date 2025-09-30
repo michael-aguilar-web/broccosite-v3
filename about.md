@@ -14,12 +14,12 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 ## things I currently spend my free time on
 *ordered by avg time spent per week, high to low*
 
-- ---[^1] <!--bp/sts-->
-- doomscrolling
+- project --- [^1] <!--bp/sts-->
 - games
     - apex
     - peak (the first friendslop game I actually enjoy, would recommend)
     - dreaming about the riot mmo
+- doomscrolling
 - going to the gym to channel my inner caveman
 - ---[^1] <!--vl-->
 - ---[^1] <!--ct-->

@@ -12,7 +12,8 @@ recently I've been testing out a new strategy to squeeze some more value out of 
 my idea for this strategy arose from wanting to avoid a situation I frequently find myself in: *I start to work on a new project or building a skill, but eventually end up dropping it* (shoutout coopm26). This brings me to assumption \#1 of the "need to know basis" loop strategy (n2nbl):
 
 
-> assumption \#1: finding something you truly want to pursue (projects, skills, etc) can be really difficult, so by repeating this cycle **as many times as possible**, you increase your chances of finding something interesting.
+> [!note] assumption \#1: 
+> finding something you truly want to pursue (projects, skills, etc) can be really difficult, so by repeating this cycle **as many times as possible**, you increase your chances of finding something interesting.
 
 
 in the past, this is what my productivity cycle looked like:
@@ -49,10 +50,12 @@ graph TD;
 ```
 this whole loop is built upon two more assumptions:
 
-> assumption \#2: any amount of feedback in the zero or negative direction subconsciously decreases your confidence. This amount of confidence decrease **doesn't have to be very large at all**; my point is a nonzero amount of doubt is being introduced.
+> [!note] assumption \#2: 
+> any amount of feedback in the zero or negative direction subconsciously decreases your confidence. This amount of confidence decrease **doesn't have to be very large at all**; my point is a nonzero amount of doubt is being introduced.
 
 
-> assumption \#3: other people do not (or cannot) 100% care about what you are doing with your time, it is **up to you entirely** to find out what you want to do.
+> [!note] assumption \#3: 
+> other people do not (or cannot) 100% care about what you are doing with your time, it is **up to you entirely** to find out what you want to do.
 
 
 obviously every situation is different, but I felt like this amount of problem distillation is entirely appropriate. Additionally, a core idea of this loop is that the extrinsic stimulus artificially boosts your motivation to finish a task and prolongs the time you spend on it (more on that later).
@@ -94,7 +97,8 @@ graph TD;
 
 this loop is built upon assumption \#4:
 
-> assumption \#4: you are only going to do something if that matters to you, if you don't feel like doing it then it simply does not matter to you. This baseline of what **actually matters** is completely different depending on the person
+> [!note] assumption \#4: 
+> you are only going to do something if that matters to you, if you don't feel like doing it then it simply does not matter to you. This baseline of what **actually matters** is completely different depending on the person
 
 
 the main idea here is that you kinda have to do some testing to find that personal baseline of what **actually matters**. For example, if I wanted to pick up something like basket weaving because it seemed interesting at the time, but I don't actually put a plan in motion to pursue basket weaving, then basket weaving is simply something that doesn't actually matter to me. 

@@ -44,5 +44,5 @@ docker run --rm --name "$NAME" \
   --tmpfs /tmp \
   -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 \
   -v "$PWD:/data" \
-  sridca/emanote \
-  emanote -L /data run --port="$PORT" --host=0.0.0.0
+  ghcr.io/srid/emanote:latest \
+  -L /data run --port="$PORT" --host=0.0.0.0

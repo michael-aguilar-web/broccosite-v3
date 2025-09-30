@@ -19,7 +19,8 @@
           # By default, the 'emanote' flake input is used.
           # package = inputs.emanote.packages.${system}.default;
           sites."default" = {
-            layers = [ "." ];
+            # Emanote 1.4+: layers expect submodules; provide the content directory as a layer
+            layers = [ { path = ./.; } ];
             # port = 8080;
           };
         };

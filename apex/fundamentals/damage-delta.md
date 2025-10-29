@@ -7,6 +7,8 @@ order: 3
 
 # damage delta
 
+_last updated: march 10, 2023_
+
 so now that we know that getting faster at apex is the key to improvement, how exactly do we speed up fights? To answer this, let's look at the concept that I like to call the "damage delta":
 
 ## what is the damage delta?
@@ -17,7 +19,7 @@ the "damage delta" is the difference between a player's **damage output** and th
 
 ## why do we care about it?
 
-the most important reason why maximizing the damage delta is important because it enables an **artifical numbers advantage**. When someone gets cracked and is forced to heal, they are essentially **out of the game** for the next few seconds *(see health item table below)*. For example, dealing 140 damage to someone with a purple shield means they will have to spend 10 to 27+ seconds doing nothing but healing. 
+the most important reason why maximizing the damage delta is important because it enables an **artifical numbers advantage**. What this means is when someone gets their shield cracked and is forced to heal, they are essentially **out of the game** for the next few seconds *(see health item table below)*. For example, dealing 140 damage to someone with a purple shield means they will have to spend 10 to 27+ seconds doing nothing but healing. 
 
 this may seem obvious when said out loud, but timing is a huge part of this game. **Newer players often don't understand the importance of making a move right after they deal a lot of damage.** As soon as someone gets chunked for a lot of health, the clock starts ticking, and you have **a limited time to respond** before they are back to full. Remember, a shield battery only takes 5 seconds to pop.
 
@@ -87,5 +89,3 @@ check out [mokeysniper](https://youtube.com/playlist?list=PLutufyM99jBTt-KZL-o8l
 - [↑] are you picking up grenades and remembering to use them? are you using them to flush someone out of a building? are you using them to delay the enemies to give you time to heal or rez?
 
 [[space|next note →]]
-
-*last updated: march 10, 2023*

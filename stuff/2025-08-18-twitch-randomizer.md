@@ -4,6 +4,8 @@ slug: stuff/twitch-randomizer
 ---
 # twitch channel randomizer
 
+_post date: august 18, 2025_
+
 <center><img src="/images/stuff/navbar.webp" width="500"></center>
 
 &nbsp;
@@ -69,4 +71,3 @@ there's also an import and export feature for saving & sharing your filters.
 - if you really want to use the script and the setup steps aren't working, just dm me and I can probably help troubleshoot it
 - if you're an actual web dev and you look through the script, your suspicions are in fact correct, this was like 80% vibe coded using modern day wizardry
 
-*post date: august 18, 2025*

@@ -5,6 +5,8 @@ order: 1
 
 # about
 
+_last updated: september 29, 2025_
+
 hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing things that get the brain juices flowing :slightly_smiling_face:
 
 
@@ -36,7 +38,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 
 &nbsp;
 
-*last updated: september 29, 2025*
+
 
 
 [^1]: [[2023-02-05-the-n2nbl-strategy|this post]] explains why this activity is listed, but not specified

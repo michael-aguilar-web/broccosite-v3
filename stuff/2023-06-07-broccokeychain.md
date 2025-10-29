@@ -4,6 +4,8 @@ slug: stuff/broccokeychain
 ---
 # broccokeychain
 
+_post date: june 7, 2023_
+
 I needed to make something small to use up the last couple meters of green filament I had, so I made this today
 
 <center><img src="/images/broccokeychain.png" width="400"></center>
@@ -22,4 +24,3 @@ also I'm a bezier curve enthusiast (definitely need to find a better choice of s
 
 [file download](https://broccoli.s-ul.eu/SVpod6Ad) (includes stl, step, sldprt, and 3mf with colors)
 
-*post date: june 7, 2023*

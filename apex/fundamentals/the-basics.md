@@ -7,6 +7,8 @@ order: 1
 
 # the basics
 
+_last updated: march 5, 2023_
+
 the following notes are written with the assumption you already have this knowledge:
 - **gun knowledge:** what are all the guns and what ammo types do they use?
 - **basic map knowledge:** knowing the general layout of a poi (point of interest), how to navigate a building without getting completely lost
@@ -16,4 +18,3 @@ if you don't know these things already, you won't really learn too much from the
 
 [[speed|next note →]]
 
-*last updated: march 5, 2023*

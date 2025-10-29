@@ -7,6 +7,7 @@ order: 5
 
 # intro to macro
 
+_last updated: march 5, 2023_
+
 coming eventually
 
-*last updated: march 5, 2023*

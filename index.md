@@ -31,7 +31,8 @@ title: broccosite
     color: #1f2937;
     font-size: 1.4rem;
     font-family: "Quicksand", sans-serif;
-    font-weight: 600;
+    font-variation-settings: normal;
+    font-weight: 500;
     transition: transform .1s ease, box-shadow .15s ease, border-color .12s ease, background-color .12s ease;
   }
   .lt-stack a.lt-card:hover {

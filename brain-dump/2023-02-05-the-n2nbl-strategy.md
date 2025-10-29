@@ -1,10 +1,11 @@
 ---
-date: "2023-02-05"
 slug: brain-dump/the-n2nbl-strategy
 tags: [productivity]
 ---
 
 # the n2nbl strategy
+
+*post date: february 5, 2023*
 
 recently I've been testing out a new strategy to squeeze some more value out of my free time. I started working full time a few months ago, and ever since then I've been trying to be *as productive as possible* with the hours I don't spend sleeping (sleep is cringe). As such, I have been trying to find new skills to build or projects to work on.
 
@@ -116,4 +117,3 @@ there are a few additional things that I think are important to note:
 
 but yea if you read this far then thanks for your time, lmk what you think
 
-*post date: february 5, 2023*

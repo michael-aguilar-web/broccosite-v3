@@ -185,4 +185,21 @@
     .callout[data-callout="success"] .callout-title {
         color: #15803d;
     }
+
+    /* Subtitle: minimalist date block */
+    article>p:first-of-type>em:only-child {
+        display: block;
+        width: max-content;
+        margin-left: auto;
+        margin-right: auto;
+        color: #9ca3af !important;
+        /* gray-400 */
+        margin-top: -0.125rem;
+        margin-bottom: 1.5rem;
+        font-style: italic;
+        font-size: 0.9rem;
+        letter-spacing: 0.015em;
+        line-height: 1.65;
+        white-space: normal;
+    }
 </style>

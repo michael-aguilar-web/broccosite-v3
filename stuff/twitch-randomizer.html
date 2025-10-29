@@ -18,7 +18,7 @@
   </title>
   
     
-      <meta property='og:description' content=' ' />
+      <meta property='og:description' content='post date: august 18, 2025' />
       <meta property='og:site_name' content='broccosite' />
       <meta property='og:image' content />
       <meta property='og:type' content='website' />
@@ -43,7 +43,7 @@
 
   
   
-  <link href='tailwind.css?instanceId=70ae8bb0-bd99-4e2c-9a8f-64cb6f1c33f9' rel='stylesheet' type='text/css' />
+  <link href='tailwind.css?instanceId=cb02f974-69e4-400d-ad7a-c3a4050e8208' rel='stylesheet' type='text/css' />
 
   <link rel='stylesheet' href='_emanote-static/fonts/maven-pro.css' />
 
@@ -367,6 +367,23 @@
 
     .callout[data-callout="success"] .callout-title {
         color: #15803d;
+    }
+
+    /* Subtitle: minimalist date block */
+    article>p:first-of-type>em:only-child {
+        display: block;
+        width: max-content;
+        margin-left: auto;
+        margin-right: auto;
+        color: #9ca3af !important;
+        /* gray-400 */
+        margin-top: -0.125rem;
+        margin-bottom: 1.5rem;
+        font-style: italic;
+        font-size: 0.9rem;
+        letter-spacing: 0.015em;
+        line-height: 1.65;
+        white-space: normal;
     }
 </style>
 
@@ -968,7 +985,11 @@
     
       <article class='overflow-auto'>
   <!-- What goes in this file will appear on top of note body-->
-  <div xmlhtmlRaw><center><img src="/images/stuff/navbar.webp" width="500"></center>
+  
+        <p class='mb-3'>
+            <em>post date: august 18, 2025</em>
+        </p>
+    <div xmlhtmlRaw><center><img src="/images/stuff/navbar.webp" width="500"></center>
 </div>
         <p class='mb-3'>
              
@@ -1173,10 +1194,6 @@
                 </li>
             
         </ul>
-    
-        <p class='mb-3'>
-            <em>post date: august 18, 2025</em>
-        </p>
     
   <style>
   .frame {

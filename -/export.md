@@ -21,6 +21,8 @@ order: 1
 
 # about
 
+_last updated: september 29, 2025_
+
 hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing things that get the brain juices flowing :slightly_smiling_face:
 
 
@@ -52,7 +54,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 
 &nbsp;
 
-*last updated: september 29, 2025*
+
 
 
 [^1]: [[2023-02-05-the-n2nbl-strategy|this post]] explains why this activity is listed, but not specified
@@ -118,6 +120,8 @@ order: 3
 
 # damage delta
 
+_last updated: march 10, 2023_
+
 so now that we know that getting faster at apex is the key to improvement, how exactly do we speed up fights? To answer this, let's look at the concept that I like to call the "damage delta":
 
 ## what is the damage delta?
@@ -128,7 +132,7 @@ the "damage delta" is the difference between a player's **damage output** and th
 
 ## why do we care about it?
 
-the most important reason why maximizing the damage delta is important because it enables an **artifical numbers advantage**. When someone gets cracked and is forced to heal, they are essentially **out of the game** for the next few seconds *(see health item table below)*. For example, dealing 140 damage to someone with a purple shield means they will have to spend 10 to 27+ seconds doing nothing but healing. 
+the most important reason why maximizing the damage delta is important because it enables an **artifical numbers advantage**. What this means is when someone gets their shield cracked and is forced to heal, they are essentially **out of the game** for the next few seconds *(see health item table below)*. For example, dealing 140 damage to someone with a purple shield means they will have to spend 10 to 27+ seconds doing nothing but healing. 
 
 this may seem obvious when said out loud, but timing is a huge part of this game. **Newer players often don't understand the importance of making a move right after they deal a lot of damage.** As soon as someone gets chunked for a lot of health, the clock starts ticking, and you have **a limited time to respond** before they are back to full. Remember, a shield battery only takes 5 seconds to pop.
 
@@ -199,8 +203,6 @@ check out [mokeysniper](https://youtube.com/playlist?list=PLutufyM99jBTt-KZL-o8l
 
 [[space|next note →]]
 
-*last updated: march 10, 2023*
-
 ===
 
 <!-- Source: apex/fundamentals/intro-to-macro.md -->
@@ -217,9 +219,11 @@ order: 5
 
 # intro to macro
 
+_last updated: march 5, 2023_
+
 coming eventually
 
-*last updated: march 5, 2023*
+
 
 ===
 
@@ -259,26 +263,30 @@ order: 2
 
 # speed
 
+_last updated: october 28, 2025 // first posted: march 5, 2023_
+
 ## what separates noobs from pros in apex? 
 
 if you've ever been unlucky enough to be matched against a highly skilled player as a noob, you probably have firsthand experience of what separates noobs from good players - chances are, you died extremely fast 🙂. If we compared players of each rank side by side, it would probably look something like this:
 
 <center><img src="/images/speedvrank.png" width="432" height="360"></center> 
 
-## so what does it mean to be a speedy apex player?
+## but why is speed so important?
 
-speed in apex can be simply defined as how fast a player is at performing an in game task:
+all of the core skills in apex are related to speed in some way or another:
 - how fast can you wipe the other team in a fight?
-- how fast can you get to a target after cracking them?
+- how fast can you claim space from an opponent after cracking their shield?
 - how fast can you rotate to the spot you want?
 - how fast can you loot?
 - how fast can you ... ?
 
-a player's **overall** skill is determined by how fast they are at all of the tasks in the game.
+a player's **overall** skill is often determined by how fast they are at all of the tasks in the game.
 
 note how I don't define it only as how fast they can get **kills** - while grinding raw mechanics is one way to get better at the game, there are plenty of other skills that are **just as important** to improve upon.
 
 another way of viewing speed is to look at **a player's ability to not waste time**; matches in apex legends have a fixed maximum match time of ~21 minutes, so every second counts. New players often spend a lot of time wandering aimlessly, both in and out of fights, whereas experienced players will be constantly making actions with intent. 
+
+obviously, there's also a consistency factor (you can't just spam movement mechanics around really quickly and expect to win a 1v1), but for the most part, speed is a straightforward enough indicator of a player's overall skill.
 
 if you've never seen a pro speeding across the map before check out this guy: 
 
@@ -289,22 +297,11 @@ if you've never seen a pro speeding across the map before check out this guy:
 
 ## so how do I get faster at apex?
 
-### fight speed
+keep reading! 
 
-- see note 3: [[damage-delta|damage delta]]
+[[damage-delta|next note →]]
 
-### macro strategy 
 
-- see note 4: [[intro-to-macro|intro to macro]]
-
-### everything else
-
-- stuff you get better at by just playing the game
-  - general decision making
-  - looting
-  - ???
-
-*last updated: march 10, 2023*
 
 ===
 
@@ -322,6 +319,8 @@ order: 1
 
 # the basics
 
+_last updated: march 5, 2023_
+
 the following notes are written with the assumption you already have this knowledge:
 - **gun knowledge:** what are all the guns and what ammo types do they use?
 - **basic map knowledge:** knowing the general layout of a poi (point of interest), how to navigate a building without getting completely lost
@@ -331,7 +330,7 @@ if you don't know these things already, you won't really learn too much from the
 
 [[speed|next note →]]
 
-*last updated: march 5, 2023*
+
 
 ===
 
@@ -376,12 +375,13 @@ path:brain-dump/*
 <!-- Wikilinks: [[brain-dump/2023-02-05-the-n2nbl-strategy]], [[2023-02-05-the-n2nbl-strategy]] -->
 
 ---
-date: "2023-02-05"
 slug: brain-dump/the-n2nbl-strategy
 tags: [productivity]
 ---
 
 # the n2nbl strategy
+
+*post date: february 5, 2023*
 
 recently I've been testing out a new strategy to squeeze some more value out of my free time. I started working full time a few months ago, and ever since then I've been trying to be *as productive as possible* with the hours I don't spend sleeping (sleep is cringe). As such, I have been trying to find new skills to build or projects to work on.
 
@@ -493,7 +493,7 @@ there are a few additional things that I think are important to note:
 
 but yea if you read this far then thanks for your time, lmk what you think
 
-*post date: february 5, 2023*
+
 
 ===
 
@@ -509,6 +509,8 @@ tags: [games]
 ---
 
 # persona 5 royal
+
+_post date: january 2, 2024_
 
 (this post is spoiler free)
 
@@ -587,7 +589,7 @@ my overall rating: 9.5 out of 10
 
 can't wait to play p3 reloaded in february :3
 
-*post date: january 2, 2024*
+
 
 ===
 
@@ -629,7 +631,8 @@ title: broccosite
     color: #1f2937;
     font-size: 1.4rem;
     font-family: "Quicksand", sans-serif;
-    font-weight: 600;
+    font-variation-settings: normal;
+    font-weight: 500;
     transition: transform .1s ease, box-shadow .15s ease, border-color .12s ease, background-color .12s ease;
   }
   .lt-stack a.lt-card:hover {
@@ -755,6 +758,8 @@ slug: stuff/broccokeychain
 ---
 # broccokeychain
 
+_post date: june 7, 2023_
+
 I needed to make something small to use up the last couple meters of green filament I had, so I made this today
 
 <center><img src="/images/broccokeychain.png" width="400"></center>
@@ -773,7 +778,7 @@ also I'm a bezier curve enthusiast (definitely need to find a better choice of s
 
 [file download](https://broccoli.s-ul.eu/SVpod6Ad) (includes stl, step, sldprt, and 3mf with colors)
 
-*post date: june 7, 2023*
+
 
 ===
 
@@ -787,6 +792,8 @@ date: "2025-08-18"
 slug: stuff/twitch-randomizer
 ---
 # twitch channel randomizer
+
+_post date: august 18, 2025_
 
 <center><img src="/images/stuff/navbar.webp" width="500"></center>
 
@@ -853,7 +860,7 @@ there's also an import and export feature for saving & sharing your filters.
 - if you really want to use the script and the setup steps aren't working, just dm me and I can probably help troubleshoot it
 - if you're an actual web dev and you look through the script, your suspicions are in fact correct, this was like 80% vibe coded using modern day wizardry
 
-*post date: august 18, 2025*
+
 
 ===
 

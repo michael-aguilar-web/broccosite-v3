@@ -187,19 +187,26 @@
     }
 
     /* Subtitle: minimalist date block */
+    /* Center only when the first paragraph is italic-only */
+    article>p:first-of-type:has(> em:only-child) {
+        text-align: center;
+    }
+
     article>p:first-of-type>em:only-child {
-        display: block;
-        width: max-content;
-        margin-left: auto;
-        margin-right: auto;
+        display: inline-block;
+        max-width: 100%;
         color: #9ca3af !important;
         /* gray-400 */
         margin-top: -0.125rem;
-        margin-bottom: 1.5rem;
+        margin-bottom: 0.25rem;
         font-style: italic;
         font-size: 0.9rem;
         letter-spacing: 0.015em;
         line-height: 1.65;
         white-space: normal;
+        overflow-wrap: anywhere;
+        /* allow breaking long tokens */
+        word-break: normal;
+        hyphens: auto;
     }
 </style>

@@ -709,6 +709,7 @@ here’s some links to my stuff:
   - [twitter](https://twitter.com/Broccoccoccoli){.lt-card .ico-twitter target="_blank" rel="noopener"}
   - [youtube](https://youtube.com/@Broccoccoccoli){.lt-card .ico-youtube target="_blank" rel="noopener"}
   - [steam](https://steamcommunity.com/id/Broccoccoli/){.lt-card .ico-steam target="_blank" rel="noopener"}
+  - [apex](https://apexlegendsstatus.com/profile/uid/PC/2654494079){.lt-card .ico-apex target="_blank" rel="noopener"}
   - [spotify](https://open.spotify.com/user/broccoli_?si=6bd23e31398b4929&nd=1){.lt-card .ico-spotify target="_blank" rel="noopener"}
   :::
 :::
@@ -724,7 +725,6 @@ here’s some links to my stuff:
   - [twitch](https://twitch.tv/broccoligg){.lt-card .ico-twitch target="_blank" rel="noopener"}
   - [tft](https://lolchess.gg/profile/na/Broccoli-veg/){.lt-card .ico-riot target="_blank" rel="noopener"}
   - [osu!](https://osu.ppy.sh/users/5870537){.lt-card .ico-osu target="_blank" rel="noopener"}
-  - [apex](https://apexlegendsstatus.com/profile/uid/PC/2654494079){.lt-card .ico-apex target="_blank" rel="noopener"}
   :::
 :::
 

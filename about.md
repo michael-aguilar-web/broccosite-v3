@@ -5,9 +5,9 @@ order: 1
 
 # about
 
-_last updated: january 12, 2026_
+_last updated: may 8, 2026_
 
-hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing things that get the brain juices flowing :slightly_smiling_face:
+hello I'm Michael, aka Broccoli - I'm a mechanical engineer (<img src="/images/Georgia_Tech_Yellow_Jackets_logo.png" alt="Georgia Tech Yellow Jackets" style="width: auto; height: 16px; vertical-align: middle; position: relative; top: -2px; display: inline-block;"> 22') who enjoys doing things that get the brain juices flowing :slightly_smiling_face:
 
 
 <img src="/images/icons/discord.png" alt="Discord" style="width: 20px; height: 20px; vertical-align: middle; position: relative; top: -2px; display: inline-block;"> *broccoccoccoli*
@@ -16,6 +16,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
 ## things I currently spend my free time on
 *ordered by avg time spent per week, high to low*
 
+- [frc mentoring](https://youtube.com/@michael_aguilar) (95% of my free time)
 - games
     - apex
     - fortnite (highkey underrated for being a "kids" game but it's actually really fun)
@@ -23,10 +24,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer who enjoys doing thi
     - dreaming about the riot mmo
 - doomscrolling
 - going to the gym to channel my inner caveman
-- project ___ [^1] <!--bp/sts-->
 - ---[^1] <!--vl-->
-- ---[^1] <!--ct-->
-- frc mentoring (on hold)
 - ???
 
 

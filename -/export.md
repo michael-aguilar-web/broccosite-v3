@@ -21,7 +21,7 @@ order: 1
 
 # about
 
-_last updated: may 8, 2026_
+_last updated: may 25, 2026_
 
 hello I'm Michael, aka Broccoli - I'm a mechanical engineer (<img src="/images/Georgia_Tech_Yellow_Jackets_logo.png" alt="Georgia Tech Yellow Jackets" style="width: auto; height: 16px; vertical-align: middle; position: relative; top: -2px; display: inline-block;"> 22') who enjoys doing things that get the brain juices flowing :slightly_smiling_face:
 
@@ -37,6 +37,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer (<img src="/images/G
     - apex
     - fortnite (highkey underrated for being a "kids" game but it's actually really fun)
     - league
+    - ow
     - dreaming about the riot mmo
 - doomscrolling
 - going to the gym to channel my inner caveman
@@ -49,6 +50,7 @@ hello I'm Michael, aka Broccoli - I'm a mechanical engineer (<img src="/images/G
 - [apex legends master](images/apexrank.png) season 10[^2] / 11 / 12[^2] / 13[^2] / [26](images/s26.webp) / [27 (swapped to controller)](images/s27.webp) 
 - teamfight tactics [grandmaster set 13](images/tftrank13.png) (rank **\#474** NA, 357 LP peak) | [grandmaster set 7.5](images/tftrank.png) (476 LP peak) | master set 9 / 6.5 / 6 
 - [fortnite zb unreal rank c7s1](images/unreal_c7s1.webp) (this felt too easy to be impressive but might as well put it on the record)
+- overwatch d4 dps (season 1, 2026)
 - [osu rank \#7623](https://osu.ppy.sh/users/5870537) 
 - [league of legends diamond 3 season 9](https://www.op.gg/summoners/na/Broccoli-veg)
 
@@ -706,7 +708,6 @@ here’s some links to my stuff:
   - [twitter](https://twitter.com/Broccoccoccoli){.lt-card .ico-twitter target="_blank" rel="noopener"}
   - [youtube](https://youtube.com/@Broccoccoccoli){.lt-card .ico-youtube target="_blank" rel="noopener"}
   - [steam](https://steamcommunity.com/id/Broccoccoli/){.lt-card .ico-steam target="_blank" rel="noopener"}
-  - [apex](https://apexlegendsstatus.com/profile/uid/PC/2654494079){.lt-card .ico-apex target="_blank" rel="noopener"}
   - [spotify](https://open.spotify.com/user/broccoli_?si=6bd23e31398b4929&nd=1){.lt-card .ico-spotify target="_blank" rel="noopener"}
   :::
 :::
@@ -719,6 +720,7 @@ here’s some links to my stuff:
 
 ::: {.lt-panel}
   ::: {.lt-stack}
+  - [apex](https://apexlegendsstatus.com/profile/uid/PC/2654494079){.lt-card .ico-apex target="_blank" rel="noopener"}
   - [twitch](https://twitch.tv/broccoligg){.lt-card .ico-twitch target="_blank" rel="noopener"}
   - [tft](https://lolchess.gg/profile/na/Broccoli-veg/){.lt-card .ico-riot target="_blank" rel="noopener"}
   - [osu!](https://osu.ppy.sh/users/5870537){.lt-card .ico-osu target="_blank" rel="noopener"}
@@ -1120,13 +1122,13 @@ these change every now and then
 ## albums 
 
 the more i look at this list, the more cursed it looks
-##### \#1:  [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08?si=YBJhsmK1ThO7oeyntuu5Hg) by [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV?si=NBLHGQJdR76og7r3g45lbA)
-##### \#2: [culture vulture](https://open.spotify.com/album/1mzOfpQUVO5mAKEuhWHbfQ?si=5bioSjQLQT6Ju0vubiE4HA) by [la la larks](https://open.spotify.com/artist/5JPztZ2LqAwdoMu2vQFrAQ?si=nQvijjplQlyUlPEpcvevbQ)
-##### \#3: [graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3?si=ffUn8ExUSYWUunIH07xlvA) by [kanye](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x?si=yELLVe8YSNafCmaBYNeDwg)
-##### \#4: [wake](https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB?si=wDFMkm6LSpqp1nQoYwcsaQ) by [hail the sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6?si=bvsOpuXGRSiAKDlu9EQhZg)
-##### \#5: [ぐされ \(gusare\)](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr?si=OIWhalxoRFeQV6qA3hXVvw) by [zutomayo](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj?si=oXOM4tPlSpSPDy0bkXy-FA)
+##### \#1: [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08?si=YBJhsmK1ThO7oeyntuu5Hg) by [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV?si=NBLHGQJdR76og7r3g45lbA)
+##### \#2: [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ?si=Gkg7f7FuThuQwMNJ3wwLPw) by [GIVEON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP?si=38840f479be240f0)
+##### \#3: [Somewhere City](https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn?si=IwhKMkVfSz-3_u0kHOHOAA) by [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY?si=9e4e989b51354973)
+##### \#4: [culture vulture](https://open.spotify.com/album/1mzOfpQUVO5mAKEuhWHbfQ?si=5bioSjQLQT6Ju0vubiE4HA) by [la la larks](https://open.spotify.com/artist/5JPztZ2LqAwdoMu2vQFrAQ?si=nQvijjplQlyUlPEpcvevbQ)
+##### \#5: [graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3?si=ffUn8ExUSYWUunIH07xlvA) by [kanye](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x?si=yELLVe8YSNafCmaBYNeDwg)
 
-hm: [vanisher horizon scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u?si=nDqS8BTBQAWI9hzlF-DBIw) by [quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS?si=g4MHzTyxQPywLBkwhsO0Mw)
+hm: [Half Blood (BloodLuxe)](https://open.spotify.com/album/2LryMcusFgY0edlYwJDIqj?si=srinAw9QQweUK_hnQT1T7g) by [slayr](https://open.spotify.com/album/2LryMcusFgY0edlYwJDIqj?si=srinAw9QQweUK_hnQT1T7g), [vanisher horizon scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u?si=nDqS8BTBQAWI9hzlF-DBIw) by [quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS?si=g4MHzTyxQPywLBkwhsO0Mw), [ぐされ \(gusare\)](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr?si=OIWhalxoRFeQV6qA3hXVvw) by [zutomayo](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj?si=oXOM4tPlSpSPDy0bkXy-FA), [wake](https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB?si=wDFMkm6LSpqp1nQoYwcsaQ) by [hail the sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6?si=bvsOpuXGRSiAKDlu9EQhZg)
 
 ## anime
 ##### \#1: steins;gate
